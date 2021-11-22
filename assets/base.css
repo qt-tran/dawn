@@ -8,6 +8,7 @@
   --gradient-background: var(--gradient-base-background-1);
 }
 
+/* --color-foreground is missing, I think it is inherited from :root */
 .color-background-2 {
   --color-background: var(--color-base-background-2);
   --gradient-background: var(--gradient-base-background-2);
