@@ -1,6 +1,7 @@
 /* Color custom properties */
 
 /* Color Scheme Examples */
+/* It seems :root, .color-background-1 {} is the default */
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
